@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Questo è sato un progetto che ho imparato con <a href="https://lp.devclub.com.br/devclub-oficial/#price">DevClub</a></h2>
+<h2>Questo è stato un progetto che ho imparato con <a href="https://lp.devclub.com.br/devclub-oficial/#price">DevClub</a></h2>
 <br>
 <h2>Tecnologia Usata</h2>
  - HTML <br>
